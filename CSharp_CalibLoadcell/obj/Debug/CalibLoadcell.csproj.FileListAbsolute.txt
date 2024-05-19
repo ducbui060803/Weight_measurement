@@ -1,0 +1,20 @@
+C:\Users\otaku\OneDrive\Desktop\Csharp_CalibLoadcell\CalibLoadcell\obj\Debug\CalibLoadcell.csproj.AssemblyReference.cache
+C:\Users\otaku\OneDrive\Desktop\Csharp_CalibLoadcell\CalibLoadcell\obj\Debug\CalibLoadcell.Properties.Resources.resources
+C:\Users\otaku\OneDrive\Desktop\Csharp_CalibLoadcell\CalibLoadcell\obj\Debug\CalibLoadcell.csproj.GenerateResource.cache
+C:\Users\otaku\OneDrive\Desktop\Csharp_CalibLoadcell\CalibLoadcell\obj\Debug\CalibLoadcell.csproj.CoreCompileInputs.cache
+C:\Users\otaku\OneDrive\Desktop\Csharp_CalibLoadcell\CalibLoadcell\obj\Debug\CalibLoadcell.Form1.resources
+C:\Users\otaku\OneDrive\Desktop\Csharp_CalibLoadcell\CalibLoadcell\bin\Debug\CalibLoadcell.exe.config
+C:\Users\otaku\OneDrive\Desktop\Csharp_CalibLoadcell\CalibLoadcell\bin\Debug\CalibLoadcell.exe
+C:\Users\otaku\OneDrive\Desktop\Csharp_CalibLoadcell\CalibLoadcell\bin\Debug\CalibLoadcell.pdb
+C:\Users\otaku\OneDrive\Desktop\Csharp_CalibLoadcell\CalibLoadcell\obj\Debug\CalibLoadcell.exe
+C:\Users\otaku\OneDrive\Desktop\Csharp_CalibLoadcell\CalibLoadcell\obj\Debug\CalibLoadcell.pdb
+C:\HK 232\Tai_lieu_Do_Luong_Cong_Nghiep\Bài tập lớn\Bài tập lớn 2 mới\Csharp_CalibLoadcell\Csharp_CalibLoadcell\CalibLoadcell\bin\Debug\CalibLoadcell.exe.config
+C:\HK 232\Tai_lieu_Do_Luong_Cong_Nghiep\Bài tập lớn\Bài tập lớn 2 mới\Csharp_CalibLoadcell\Csharp_CalibLoadcell\CalibLoadcell\bin\Debug\CalibLoadcell.exe
+C:\HK 232\Tai_lieu_Do_Luong_Cong_Nghiep\Bài tập lớn\Bài tập lớn 2 mới\Csharp_CalibLoadcell\Csharp_CalibLoadcell\CalibLoadcell\bin\Debug\CalibLoadcell.pdb
+C:\HK 232\Tai_lieu_Do_Luong_Cong_Nghiep\Bài tập lớn\Bài tập lớn 2 mới\Csharp_CalibLoadcell\Csharp_CalibLoadcell\CalibLoadcell\obj\Debug\CalibLoadcell.csproj.AssemblyReference.cache
+C:\HK 232\Tai_lieu_Do_Luong_Cong_Nghiep\Bài tập lớn\Bài tập lớn 2 mới\Csharp_CalibLoadcell\Csharp_CalibLoadcell\CalibLoadcell\obj\Debug\CalibLoadcell.Form1.resources
+C:\HK 232\Tai_lieu_Do_Luong_Cong_Nghiep\Bài tập lớn\Bài tập lớn 2 mới\Csharp_CalibLoadcell\Csharp_CalibLoadcell\CalibLoadcell\obj\Debug\CalibLoadcell.Properties.Resources.resources
+C:\HK 232\Tai_lieu_Do_Luong_Cong_Nghiep\Bài tập lớn\Bài tập lớn 2 mới\Csharp_CalibLoadcell\Csharp_CalibLoadcell\CalibLoadcell\obj\Debug\CalibLoadcell.csproj.GenerateResource.cache
+C:\HK 232\Tai_lieu_Do_Luong_Cong_Nghiep\Bài tập lớn\Bài tập lớn 2 mới\Csharp_CalibLoadcell\Csharp_CalibLoadcell\CalibLoadcell\obj\Debug\CalibLoadcell.csproj.CoreCompileInputs.cache
+C:\HK 232\Tai_lieu_Do_Luong_Cong_Nghiep\Bài tập lớn\Bài tập lớn 2 mới\Csharp_CalibLoadcell\Csharp_CalibLoadcell\CalibLoadcell\obj\Debug\CalibLoadcell.exe
+C:\HK 232\Tai_lieu_Do_Luong_Cong_Nghiep\Bài tập lớn\Bài tập lớn 2 mới\Csharp_CalibLoadcell\Csharp_CalibLoadcell\CalibLoadcell\obj\Debug\CalibLoadcell.pdb

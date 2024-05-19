@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HK 232\\Tai_lieu_Do_Luong_Cong_Nghiep\\B\u00E0i t\u1EADp l\u1EDBn\\B\u00E0i t\u1EADp l\u1EDBn 2 m\u1EDBi\\Csharp_CalibLoadcell\\Csharp_CalibLoadcell\\CalibLoadcell\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F11DA7FB-F431-4C98-BDE4-FDB98B9C634A}|CalibLoadcell.csproj|c:\\hk 232\\tai_lieu_do_luong_cong_nghiep\\b\u00E0i t\u1EADp l\u1EDBn\\b\u00E0i t\u1EADp l\u1EDBn 2 m\u1EDBi\\csharp_calibloadcell\\csharp_calibloadcell\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F11DA7FB-F431-4C98-BDE4-FDB98B9C634A}|CalibLoadcell.csproj|c:\\hk 232\\tai_lieu_do_luong_cong_nghiep\\b\u00E0i t\u1EADp l\u1EDBn\\b\u00E0i t\u1EADp l\u1EDBn 2 m\u1EDBi\\csharp_calibloadcell\\csharp_calibloadcell\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\HK 232\\Tai_lieu_Do_Luong_Cong_Nghiep\\B\u00E0i t\u1EADp l\u1EDBn\\B\u00E0i t\u1EADp l\u1EDBn 2 m\u1EDBi\\Csharp_CalibLoadcell\\Csharp_CalibLoadcell\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Form1.cs",
+              "ToolTip": "C:\\HK 232\\Tai_lieu_Do_Luong_Cong_Nghiep\\B\u00E0i t\u1EADp l\u1EDBn\\B\u00E0i t\u1EADp l\u1EDBn 2 m\u1EDBi\\Csharp_CalibLoadcell\\Csharp_CalibLoadcell\\Form1.cs",
+              "RelativeToolTip": "..\\Form1.cs",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAIwIUAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:41:41.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\HK 232\\Tai_lieu_Do_Luong_Cong_Nghiep\\B\u00E0i t\u1EADp l\u1EDBn\\B\u00E0i t\u1EADp l\u1EDBn 2 m\u1EDBi\\Csharp_CalibLoadcell\\Csharp_CalibLoadcell\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Form1.cs",
+              "ToolTip": "C:\\HK 232\\Tai_lieu_Do_Luong_Cong_Nghiep\\B\u00E0i t\u1EADp l\u1EDBn\\B\u00E0i t\u1EADp l\u1EDBn 2 m\u1EDBi\\Csharp_CalibLoadcell\\Csharp_CalibLoadcell\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:41:38.74Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
